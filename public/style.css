@@ -1,0 +1,29 @@
+body {
+  background-color: #b71540;
+  font-family: "montserrat", sans-serif;
+  background-image: url("https://images.pexels.com/photos/808465/pexels-photo-808465.jpeg?cs=srgb&dl=pexels-tyler-lastovich-808465.jpg&fm=jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.box {
+  background-color: transparent;
+  text-align: center;
+  height: 400px;
+  width: 600px;
+  border: 2px solid black;
+  margin: auto;
+  margin-top: 200px;
+  border-radius: 10px;
+  box-shadow: brown;
+
+  background-image: url("https://images.unsplash.com/photo-1549880181-56a44cf4a9a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8OXx8fGVufDB8fHx8&w=1000&q=80");
+}
+button {
+  margin-top: 280px;
+  margin-left: 520px;
+  border-radius: 4px;
+  width: 70px;
+  position: relative;
+  font-family: "PT Sans" Helvetica;
+  background-color: #34495e;
+}
